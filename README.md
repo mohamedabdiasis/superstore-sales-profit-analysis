@@ -34,18 +34,14 @@ Based on the data analysis, the dashboard reveals several critical takeaways:
 - **Tool**: Microsoft Power BI Desktop
 - **Language**: DAX (Data Analysis Expressions) for custom measures (e.g., Profit Margin %)
 - **Design Principles**:conditional formatting for KPIs, and insight-driven chart titles.
-
-- ## Repository Structure
-
+- 
 ## Repository Structure
 
 * `README.md` : Project overview, key business insights, and dashboard documentation.
 * `superstore_data.csv` : The original, untouched Superstore dataset in its raw format.
 * `Superstore_Analysis.pbix` : The core Microsoft Power BI workbook containing the transformed dataset, interactive dashboard, custom DAX measures, and relational data model.
 
-* <img width="701" height="328" alt="image" src="https://github.com/user-attachments/assets/2cf47342-8704-40be-bdc5-8555ffa6fd0b" />
-<img width="705" height="327" alt="image" src="https://github.com/user-attachments/assets/dd6b6458-1198-44ff-8b39-16014ef5c06f" />
-<img width="699" height="373" alt="image" src="https://github.com/user-attachments/assets/fee8cd72-8d18-4096-8402-4c5bb217bc5d" />
+
 
 
 
